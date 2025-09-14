@@ -1,29 +1,26 @@
-E-commerce Sales Analysis
-Author: Juan Gómez
+# Restaurant Tip Analysis 📊
 
-Project Description:
-This project is an exploratory analysis of sales data from an e-commerce store. The main objective is to uncover hidden patterns, sales trends, and key business metrics that can inform strategic decision-making.
+**Author:** Juan Gómez
 
-Through this analysis, we seek to answer questions such as:
+**Project Description:**
+This project is an exploratory analysis of a restaurant tip dataset. The goal is to identify **customer behavior patterns** and **key business metrics** that can help optimize restaurant operations.
 
-Which products sell the most?
+The analysis focuses on answering questions such as:
+* Is there a relationship between party size and tips?
+* What day of the week is most popular for customers?
 
-Which days of the week generate the most revenue?
+**Key Findings:**
+* A positive correlation was found: **the larger the party size, the higher the average tip**.
+* **Weekends** (especially Saturdays) are the busiest days.
 
-Is there a relationship between the number of products purchased and the total transaction value?
+**Dataset:**
+The dataset used (`tips`) is public and is part of the `seaborn` Python library, a reliable and stable source for educational and practice purposes.
 
-Dataset:
-The data used for this analysis is public and obtained from a reliable source.
+**Technologies Used:**
+* **Python:** Programming language.
+* **Pandas:** For data manipulation and analysis.
+* **Matplotlib:** For data visualization.
+* **Git and GitHub:** For version control and project deployment.
 
-Technologies Used:
-
-Python: For data manipulation and analysis.
-
-Pandas: Primary library for data analysis.
-
-Git & GitHub: For version control and project deployment.
-
-Data Visualization: Tools such as Matplotlib or Seaborn will be used to visualize the results.
-
-Project Status:
-[In progress]
+**Project Status:**
+[Completed - Portfolio Ready]
